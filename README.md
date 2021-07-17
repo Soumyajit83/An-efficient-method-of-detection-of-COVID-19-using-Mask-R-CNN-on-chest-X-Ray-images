@@ -1,2 +1,5 @@
 # An-efficient-method-of-detection-of-COVID-19-using-Mask-R-CNN-on-chest-X-Ray-images
+
 Deep Learning
+
+Artificial intelligence techniques are used on chest X-ray images for accurate detection of diseases and this paper aims to develop a process which is capable of diagnosing COVID-19 using deep learning methods on X-ray images. For this purpose, we used Mask R-CNN method to train and test on the dataset to classify between patients infected and non-infected with COVID-19. The dataset used here contains a large number of frontal views of X-ray images which are an essential resource for the algorithms used in the development of tools for the detection of COVID-19. Using 668 chest X-ray images, the proposed model achieved an accuracy as high as 96.98%, specificity of 97.36% with the precision of 96.60%. The entire process is presented in detail. When a comparison table on the AI-based techniques is prepared, it is noticed that the Mask R-CNN technique on chest X-ray images provides better efficiency in the detection of COVID-19. The Mask R-CNN method is found to be accurate and robust in the detection of COVID-19 from chest X-ray images.
